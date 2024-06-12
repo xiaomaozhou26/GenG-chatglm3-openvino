@@ -1,3 +1,5 @@
+# pip install --pre --upgrade bigdl-llm[all] -i https://mirrors.aliyun.com/pypi/simple/
+
 import time
 from bigdl.llm.transformers import AutoModel
 from transformers import AutoTokenizer
