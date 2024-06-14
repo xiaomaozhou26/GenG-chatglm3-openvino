@@ -6,6 +6,7 @@
 
 核心模块1:Chatglm3-6B
 <img width="935" alt="image" src="https://github.com/xiaomaozhou26/GenG-chatglm3-openvino/assets/31319967/32414a0a-d7f4-42f1-bf72-b1026e75fed3">
+
 核心模块2:主流生成模型
 <img width="942" alt="image" src="https://github.com/xiaomaozhou26/GenG-chatglm3-openvino/assets/31319967/cb95da00-89d0-49ad-bd47-68dad40cb9e3">
 
